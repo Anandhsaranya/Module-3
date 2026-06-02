@@ -23,8 +23,19 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
+# Reg No-212223060250
+Name - Saranya A
+
+def string_length(s):
+    print(f"The length of the string '{s}' is {len(s)}")
+
+# Example usage
+string = input()
+string_length(string)
 ```
 
 ### OUTPUT
+<img width="1068" height="230" alt="image" src="https://github.com/user-attachments/assets/29bd6560-c048-41bb-92f4-e0edc996df16" />
 
 ### RESULT
+Thus a python program to find the length of the given string has been successfully implemented.
